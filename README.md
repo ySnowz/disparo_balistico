@@ -37,3 +37,9 @@ Este é um projeto em Python que simula um disparo balístico, levando em consid
 1. Clone o repositório: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25" />
    ```bash
    git clone https://github.com/seu-usuario/simulacao-balistica.git
+2. Navegue até a pasta do projeto:
+    ```bash
+    cd dados_pessoas
+3. Execute o programa:
+    ```bash
+    python disparo_balistico.py
